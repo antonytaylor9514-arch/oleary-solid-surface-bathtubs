@@ -3,6 +3,8 @@
 This repository introduces **OLEARY solid surface bathtubs**, designed and manufactured for  
 residential, hotel, and commercial bathroom projects worldwide.
 
+![OLEARY Solid Surface Bathtub](<https://github.com/antonytaylor9514-arch/oleary-solid-surface-bathtubs/blob/817b20ef84c49a65f16c874af119e14c138bd071/oleary-solid-surface-bathtubs%20/images/oleary-solid-surface-bathtub.jpg>)
+
 ---
 
 ## 🏭 About the Manufacturer
