@@ -1,4 +1,4 @@
-##🛁 OLEARY Solid Surface Bathtubs
+## 🛁 OLEARY Solid Surface Bathtubs
 
 This repository introduces **OLEARY solid surface bathtubs**, designed and manufactured for  
 residential, hotel, and commercial bathroom projects worldwide.
